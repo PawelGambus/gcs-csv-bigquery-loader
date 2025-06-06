@@ -1,4 +1,4 @@
-# ☁️ GCP Cloud Function – Ładowanie danych CSV do BigQuery
+# ☁️ GCP Cloud Function – Ładowanie danych z pliku CSV
 
 To repozytorium zawiera moje rozwiązanie zadania rekrutacyjnego polegającego na zbudowaniu zautomatyzowanego pipeline’u do ładowania danych w Google Cloud Platform.
 
@@ -6,7 +6,7 @@ To repozytorium zawiera moje rozwiązanie zadania rekrutacyjnego polegającego n
 
 ## 📝 Opis zadania
 
-Zaloguj się do konsoli Google Cloud Platform i wybierz projekt: `alterdata-rekrutacja-46`.  
+Zaloguj się do konsoli Google Cloud Platform i wybierz projekt: `******`.  
 W tym projekcie masz pełne uprawnienia.
 
 ### Zadanie
