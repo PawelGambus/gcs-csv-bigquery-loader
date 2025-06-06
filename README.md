@@ -1,4 +1,4 @@
-# ☁️ GCP Cloud Function – CSV to BigQuery Loader
+# ☁️ GCP Cloud Function – CSV Loader
 
 This repository contains my solution for a Task of a recruitment challenge focused on building an automated ingestion pipeline using Google Cloud Platform.
 
@@ -6,7 +6,7 @@ This repository contains my solution for a Task of a recruitment challenge focus
 
 ## 📝 Task Description
 
-Log in to the Google Cloud Platform console and locate the project: `alterdata-rekrutacja-46`.  
+Log in to the Google Cloud Platform console and locate the project: `*****`.  
 You have full permissions in this project.
 
 ### Task 1
